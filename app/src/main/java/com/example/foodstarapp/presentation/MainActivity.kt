@@ -1,4 +1,4 @@
-package com.example.foodstarapp
+package com.example.foodstarapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
