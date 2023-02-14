@@ -1,4 +1,4 @@
-package com.example.foodstarapp.ui.theme
+package com.example.foodstarapp.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
